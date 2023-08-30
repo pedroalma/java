@@ -36,3 +36,5 @@ let valorn = 50;
 let resposta = valorn * pi;
 
 console.log("A resposta é: ", resposta);
+
+alert("A resposta é", resposta)
